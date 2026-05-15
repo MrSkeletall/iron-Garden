@@ -46,7 +46,7 @@ public class AirState : PlayerState
 
     public void OnStateExit()
     {
-        animator.SetBool("Idle", true);
+        //animator.SetBool("Idle", true);
     }
 
     public void OnStateUpdate()
